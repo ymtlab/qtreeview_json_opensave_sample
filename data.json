@@ -1,0 +1,28 @@
+{
+    "columns": [
+        "ID",
+        "Name"
+    ],
+    "parts": [
+        {
+            "ID": "Part 1",
+            "Name": "Name A",
+            "parts": [
+                {
+                    "ID": "Part 3",
+                    "Name": "Name C",
+                    "parts": [
+                        {
+                            "ID": "Part 4",
+                            "Name": "Name D"
+                        }
+                    ]
+                },
+                {
+                    "ID": "Part 2",
+                    "Name": "Name B"
+                }
+            ]
+        }
+    ]
+}
